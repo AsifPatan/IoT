@@ -1,6 +1,6 @@
 n=input()
 b=n[::-1]
 if(n==b):
-	print("paindrome")
+	print("it is a paindrome")
 else:
 	print("not palindrome")
